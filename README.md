@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kaleeneo
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Python and R
-- 💞️ I’m looking to collaborate on DS and ML projects
+- 👀 I’m interested in Deep Learning and Computer Vision
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me : kalindu4321@gmail.com
 
 <!---
